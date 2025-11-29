@@ -7,6 +7,29 @@ If you only run the *desktop app*, you may not benefit from this script.
 
 ---
 
+## Why This Exists
+
+Trilium Notes makes it easy to run multiple server instances (for example: Work, Personal, and Lab),
+and to open them in separate browser tabs. The downside is that all of those tabs can look very
+similar at a glance.
+
+This script was created to solve one simple problem:
+
+> “When I have several Trilium tabs open, I want to instantly see which one is which.”
+
+By adding a bold text prefix, optional border, and optional custom favicon per instance, it becomes
+much easier to distinguish:
+
+- which tab is Work
+- which tab is Personal
+- which tab is Lab
+- which tab is your “primary” instance vs. others
+
+If you only use the standalone desktop app, you may not need this script. It’s primarily intended
+for browser-based access to Trilium server instances.
+
+---
+
 ## Features
 
 - ⭐ **Bold tab prefix** showing which instance you're looking at  
@@ -194,6 +217,22 @@ Pull requests are welcome.
 ## Credits
 
 Created by **Br0kenSilos** with assistance from ChatGPT.
+
+---
+
+## Acknowledgements
+
+Huge thanks to the people who make Trilium possible:
+
+- **@zadam**, the original author of Trilium Notes, for creating one of the most powerful and flexible
+  personal knowledge management systems available today.
+
+- **@eliandoran** and the **Trilium Next team**, for picking up the project, modernizing it, and keeping
+  the ecosystem healthy and moving forward.
+
+This script is an unofficial user customization and is not affiliated with or endorsed by the
+Trilium or Trilium Next projects. It was built simply because Trilium is awesome — and because
+running multiple instances in browser tabs can get confusing without some extra visual identity.
 
 ---
 
