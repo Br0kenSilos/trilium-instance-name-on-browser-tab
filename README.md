@@ -56,7 +56,7 @@ Use a **different prefix and color** for each instance so the tabs are easy to d
 This step can be confusing.
 
 #### **Do NOT just type `#run=frontendStartup` into the note body.  
-That will NOT work.**
+That may NOT work.**
 
 Instead:
 
@@ -74,7 +74,7 @@ Trilium will automatically display it as:
 #run=frontendStartup
 ```
 
-Users should follow this exact method — copy/pasting the text does **not** create a real attribute.
+For best results, users should follow this exact method — copy/pasting the text might **not** create a real attribute.
 
 ### 5. Hard refresh the browser
 
@@ -186,7 +186,7 @@ Behavior in older Trilium versions has not been tested.
 ## Support
 
 This project is provided as-is.  
-You’re welcome to open GitHub issues for bugs or suggestions.  
+You’re welcome to open GitHub issues for bugs or suggestions but you might be on your own.  
 Pull requests are welcome.
 
 ---
