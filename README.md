@@ -214,7 +214,7 @@ A few visual examples of how the script customizes each Trilium instance.
 <img src="images/add-script-2.png" width="800">
 
 ### Starting the script
-<img src="images/add-script-2.png" width="800">
+<img src="images/add-script-3.png" width="800">
 
 ### LAB instance completed
 <img src="images/lab-done.png" width="800">
