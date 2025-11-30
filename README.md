@@ -2,8 +2,7 @@
 
 A lightweight, self-contained JavaScript frontend script for [Trilium Notes](https://github.com/TriliumNext/Trilium) that gives each instance a clear visual identity inside your browser.
 
-This is especially useful if you run multiple Trilium **server** instances (e.g., Work, Personal, Lab) and often have several browser tabs open at once.  
-If you only run the *desktop app*, you may not benefit from this script.
+This is especially useful if you run multiple Trilium **server** instances (e.g., Work, Personal, Lab) and often have several browser tabs open at once. If you only run the *desktop app*, you may not benefit from this script.
 
 ---
 
@@ -26,7 +25,7 @@ much easier to distinguish:
 - which tab is your “primary” instance vs. others
 
 If you only use the standalone desktop app, you may not need this script. It’s primarily intended
-for browser-based access to Trilium server instances.
+for browser-based access to multiple Trilium server instances.
 
 ---
 
@@ -46,7 +45,7 @@ for browser-based access to Trilium server instances.
 
 ### 1. Create a new Code note
 
-- In Trilium, create a new note anywhere you like  
+- In Trilium, create a new note anywhere you like (I like to sub them under a "Trilium Add-Ons" note to keep things tidy.
 - Set the note type to **Code**  
 - Set the language to **JavaScript (frontend)**  
 
@@ -97,7 +96,7 @@ Trilium will automatically display it as:
 #run=frontendStartup
 ```
 
-For best results, users should follow this exact method — copy/pasting the text might **not** create a real attribute.
+For best results, users should follow this exact method as copy/pasting the text might **not** create a real attribute.
 
 ### 5. Hard refresh the browser
 
@@ -108,7 +107,7 @@ You should now see:
 - Optional colored border  
 - Optional custom favicon  
 
-Repeat per instance.
+Repeat the process for each instance you run.
 
 ---
 
@@ -219,7 +218,7 @@ A few visual examples of how the script customizes each Trilium instance.
 ### LAB instance completed
 <img src="images/05-lab-done.png" width="800">
 
-### All instances set
+### All instances completed
 <img src="images/06-all-finished.png" width="800">
 
 
@@ -243,11 +242,13 @@ Created by **Br0kenSilos** with assistance from ChatGPT.
 
 Huge thanks to the people who make Trilium possible:
 
-- **@zadam**, the original author of Trilium Notes, for creating one of the most powerful and flexible
+- **@zadam**, the original author of Trilium Notes, for creating one of the most powerful, flexible, and life-changing 
   personal knowledge management systems available today.
 
 - **@eliandoran** and the **Trilium Next team**, for picking up the project, modernizing it, and keeping
   the ecosystem healthy and moving forward.
+
+- If you are user of Trilium notes, please consider donating to the dev team to help them keep it going!
 
 This script is an unofficial user customization and is not affiliated with or endorsed by the
 Trilium or Trilium Next projects. It was built simply because Trilium is awesome — and because
