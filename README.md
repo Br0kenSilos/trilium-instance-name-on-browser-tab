@@ -205,22 +205,22 @@ Behavior in older Trilium versions has not been tested.
 A few visual examples of how the script customizes each Trilium instance.
 
 ### Three instances with standard Trilium browser tabs
-<img src="images/3-instances-default-view.png" width="800">
+<img src="images/01-instances-default-view.png" width="800">
 
 ### Adding the Script
-<img src="images/add-script-1.png" width="800">
+<img src="images/02-add-script-1.png" width="800">
 
 ### Setting the script attributes to run at startup
-<img src="images/add-script-2.png" width="800">
+<img src="images/03-add-script-2.png" width="800">
 
 ### Starting the script
-<img src="images/add-script-3.png" width="800">
+<img src="images/04-add-script-3.png" width="800">
 
 ### LAB instance completed
-<img src="images/lab-done.png" width="800">
+<img src="images/05-lab-done.png" width="800">
 
 ### All instances set
-<img src="images/all-finished.png" width="800">
+<img src="images/06-all-finished.png" width="800">
 
 
 ---
