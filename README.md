@@ -1,6 +1,6 @@
 # Trilium Instance Name on Browser Tab
 
-A lightweight, self-contained JavaScript frontend script for [Trilium Notes](https://github.com/zadam/trilium) that gives each instance a clear visual identity inside your browser.
+A lightweight, self-contained JavaScript frontend script for [Trilium Notes]((https://github.com/TriliumNext/Trilium)) that gives each instance a clear visual identity inside your browser.
 
 This is especially useful if you run multiple Trilium **server** instances (e.g., Work, Personal, Lab) and often have several browser tabs open at once.  
 If you only run the *desktop app*, you may not benefit from this script.
